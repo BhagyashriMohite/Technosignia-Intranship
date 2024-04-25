@@ -8,5 +8,4 @@ This is employee name list.
 6.Prachi
 7.Rohini
 
-8. Kajal
-9.Komal
+
